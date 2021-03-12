@@ -18,8 +18,8 @@ ul li {
 }
 
 a:hover {
-outline: none;
-text-decoration:none;
+  outline: none;
+  text-decoration:none;
 }
 
 a:focus {
@@ -30,8 +30,8 @@ a:focus {
 a {
   -webkit-transition: 300ms;
   -moz-transition: 300ms;
-    -o-transition: 300ms;
-    transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -72,7 +72,7 @@ a#scrollUp i{
 }
 
 .contactinfo ul li:first-child{
-    margin-left: -15px;
+  margin-left: -15px;
 }
 
 .contactinfo ul li a{
@@ -109,7 +109,7 @@ a#scrollUp i{
 
 .social-icons ul li a i {
   padding: 11px 15px;
-   transition: all 0.9s ease 0s;
+  transition: all 0.9s ease 0s;
   -moz-transition: all 0.9s ease 0s;
   -webkit-transition: all 0.9s ease 0s;
   -o-transition: all 0.9s ease 0s;
@@ -117,7 +117,7 @@ a#scrollUp i{
 
 .social-icons ul li a i:hover{
   color: #fff;
-   transition: all 0.9s ease 0s;
+  transition: all 0.9s ease 0s;
   -moz-transition: all 0.9s ease 0s;
   -webkit-transition: all 0.9s ease 0s;
   -o-transition: all 0.9s ease 0s;
@@ -281,7 +281,7 @@ a#scrollUp i{
 
 .navbar-header 
 .navbar-toggle .icon-bar {
-    background-color: #fff;
+  background-color: #fff;
 }
 
 
@@ -328,7 +328,7 @@ ul.sub-menu {
 }
 
 .navbar-nav li ul.sub-menu li a:hover{
-    color: #FDB45E;
+  color: #FDB45E;
 }
 
 .fa-angle-down{
@@ -348,7 +348,7 @@ ul.sub-menu {
     transform: translateY(0);
   }
 }
-  
+
 /*************************
 *******Footer CSS******
 **************************/
@@ -420,10 +420,10 @@ ul.sub-menu {
   line-height: 0;
   display: block;
   opacity: 0;
-   -webkit-transition: 300ms;
+  -webkit-transition: 300ms;
   -moz-transition: 300ms;
-    -o-transition: 300ms;
-    transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
 }
 
 .overlay-icon i {
@@ -588,7 +588,7 @@ ul.sub-menu {
 }
 
 .carousel-indicators li.active {
-	  background: #FE980F;
+ background: #FE980F;
 }
 
 .item {
@@ -1792,7 +1792,7 @@ h2.title {
   padding: 5px 15px;
 }
 .update{
-    margin-left: 40px;
+  margin-left: 40px;
 }
 
 .check_out {
@@ -2080,7 +2080,7 @@ h2.title {
 }
 
 .post-meta span{
-    float: right;
+  float: right;
 }
 
 .post-meta span i{
