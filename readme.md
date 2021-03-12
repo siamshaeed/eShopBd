@@ -9,8 +9,9 @@
 
 <h2>About eShopBd(E-commerce)</h2>
 <p>
-This is Completed E-commerce website. For this project I am using Laravel, Jquery, Ajax, Bootstrap, CSS3 and HTML5 <br>
+This is Completed E-commerce website. For this project I am using Laravel, Jquery, Ajax, Bootstrap, CSS3 and HTML5 <br> <br>
 Here use Laravel Framework version : 5.7.9 <br> <br>
 <h2>Home page Screenshort</h2>
 <img src="https://github.com/SiamShaeed/eShopBd/blob/master/public/img/full-template-screenshort.png">
+<img src="https://github.com/SiamShaeed/eShopBd/blob/master/public/img/singlePage-capture.png">
 </p>
