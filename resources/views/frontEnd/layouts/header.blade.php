@@ -72,14 +72,14 @@
                     <div class="mainmenu pull-left">
                         <ul class="nav navbar-nav collapse navbar-collapse">
                             <li><a href="{{url('/')}}" class="active">Home</a></li>
+                             <li><a href="{{url('/list-products')}}">Products</a></li>
                             <li class="dropdown"><a href="#">Shop<i class="fa fa-angle-down"></i></a>
                                 <ul role="menu" class="sub-menu">
-                                    <li><a href="{{url('/list-products')}}">Products</a></li>
                                     <li><a href="{{url('/myaccount')}}">Account</a></li>
                                     <li><a href="{{url('/viewcart')}}">Cart</a></li>
                                 </ul>
                             </li>
-                            <li><a href="https://www.youtube.com/channel/UCH2Ir7rPaRN8ZPL9mSpclhw" target="_blank">Contact</a></li>
+                            <li><a href="#">Contact</a></li>
                         </ul>
                     </div>
                 </div>
