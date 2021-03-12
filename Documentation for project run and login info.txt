@@ -1,0 +1,9 @@
+Youtube Link : https://www.youtube.com/watch?v=p8Sy9FdeKE0
+
+Dashbord Login
+===============
+Url login to admin : http://127.0.0.1:8000/admin
+Username : demo@gmail.com
+pass : 111111
+
+For this project I am using Laravel, Jquery, Ajax, Bootstrap, CSS3 and HTML5
