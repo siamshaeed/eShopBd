@@ -298,7 +298,7 @@ ul.sub-menu {
 	position: absolute;
 	top: 30px;
 	left: 0;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.9);
 	list-style: none;
 	padding: 0;
 	margin: 0;
@@ -682,7 +682,7 @@ ul.sub-menu {
 .left-sidebar h2:after, h2.title:after{
 	content: " ";
 	position: absolute;
-	border: 1px solid #f5f5f5;
+	border: 1px solid #FDA30E;
 	bottom:8px;
 	left: 0;
 	width: 100%;
