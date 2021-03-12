@@ -482,6 +482,10 @@ ul.sub-menu {
   padding-top: 15px;
 }
 
+.myFooterBtm{
+  background: #FDA30E;
+}
+
 .single-widget h2 {
   color: #FDA30E;
   font-family: 'Roboto', sans-serif;
@@ -553,7 +557,6 @@ ul.sub-menu {
 }
 
 .footer-bottom {
-  background: #D6D6D0;
   padding-top: 10px;
 }
 
@@ -565,7 +568,7 @@ ul.sub-menu {
 }
 
 .footer-bottom p span a {
-  color: #FE980F;
+  color: #fff;
   font-style: italic;
   text-decoration: underline;
 }

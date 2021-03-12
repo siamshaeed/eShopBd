@@ -137,11 +137,11 @@
         </div>
     </div>
 
-    <div class="footer-bottom">
+    <div class="footer-bottom myFooterBtm">
         <div class="container">
             <div class="row">
-                <p class="pull-left">Copyright © 2013 E-SHOPPER Inc. All rights reserved.</p>
-                <p class="pull-right">Designed by <span><a target="_blank" href="#">WeShare</a></span></p>
+                <p class="pull-left">Copyright © 2021 eShopBd Inc. All rights reserved.</p>
+                <p class="pull-right">Designed by <span><a target="_blank" href="https://github.com/SiamShaeed">siamshaeed</a></span></p>
             </div>
         </div>
     </div>
