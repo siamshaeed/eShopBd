@@ -952,19 +952,17 @@ h2.title {
 
 
 .add-to-cart {
-  background:#F5F5ED;
-  border: 0 none;
-  border-radius: 0;
-  color: #696763;
+  background:#FDA30E;
+  border-radius: 50px;
+  color: #fff;
+  padding: 10px 20px;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 
 .add-to-cart:hover {
-  background: #FE980F;
-  border: 0 none;
-  border-radius: 0;
+  background: #000 !important;
   color: #FFFFFF;
 }
 
