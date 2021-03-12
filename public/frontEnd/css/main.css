@@ -68,7 +68,7 @@ a#scrollUp i{
 **************************/
 
 .header_top {
-  background: none repeat scroll 0 0 #F0F0E9;
+  background: #FDA30E;
 }
 
 .contactinfo ul li:first-child{
@@ -77,7 +77,9 @@ a#scrollUp i{
 
 .contactinfo ul li a{
   font-size: 12px;
-  color: #696763;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
 }
 
