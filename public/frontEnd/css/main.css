@@ -77,9 +77,10 @@ a#scrollUp i{
 
 .contactinfo ul li a{
   font-size: 12px;
-  color: #000;
-  font-weight: bold;
+  color: gray;
+  font-weight: 400;
   font-size: 15px;
+  letter-spacing: 1px;
   font-family: 'Roboto', sans-serif;
 }
 
