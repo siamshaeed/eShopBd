@@ -13,7 +13,6 @@ This is Completed E-commerce website. For this project I am using Laravel, Jquer
 Here use Laravel Framework version : 5.7.9 <br> <br>
 </p>
 <h2>Home page Screenshort</h2>
+<p><img src="https://github.com/SiamShaeed/eShopBd/blob/master/public/img/full-template-screenshort.png"></p>
 
-<p align="left"><img src="https://github.com/SiamShaeed/eShopBd/blob/master/public/img/full-template-screenshort.png"></p>
-<p align="right"><img src="https://github.com/SiamShaeed/eShopBd/blob/master/public/img/singlePage-capture.png"></p>
 
