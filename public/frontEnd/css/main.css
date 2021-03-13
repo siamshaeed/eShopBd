@@ -404,7 +404,7 @@ ul.sub-menu {
   display: block;
   height: 61px;
   margin-bottom: 10px;
-  border: 2px solid #CCCCC6;
+  border: 2px solid #FDA30E;
   border-radius: 3px;
 }
 
@@ -437,7 +437,7 @@ ul.sub-menu {
 }
 
 .video-gallery p {
-  color: #8C8C88;
+  color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   font-weight: 500;
