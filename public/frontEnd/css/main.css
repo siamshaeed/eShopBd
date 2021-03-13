@@ -137,11 +137,11 @@ a#scrollUp i{
 }
 
 .fa-dribbble:hover  {
-	background:#90C9DC;
+	background:#5BBCEC;
 }
 
 .fa-google-plus:hover  {
-	background:#CE3C2D;
+	background:#5BBCEC;
 }
 
 .header-middle .container .row {
@@ -486,6 +486,7 @@ ul.sub-menu {
   background: #FDA30E;
 }
 
+
 .single-widget h2 {
   color: #FDA30E;
   font-family: 'Roboto', sans-serif;
@@ -500,7 +501,7 @@ ul.sub-menu {
 }
 
 .single-widget ul li a{
-	color: #8C8C88;
+	color: #000;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
