@@ -379,7 +379,7 @@ ul.sub-menu {
 }
 
 .companyinfo p {
-  color: #B3B3AD;
+  color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   font-weight: 300;
@@ -464,11 +464,12 @@ ul.sub-menu {
 }
 
 .address p {
-  color: #666663;
+  color: #FDA30E;
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
-  font-weight: 300;
+  font-size: 16px;
+  font-weight: 500;
   left: 25px;
+  letter-spacing: 1px;
   position: absolute;
   top: 50px;
 }
@@ -550,7 +551,7 @@ ul.sub-menu {
 }
 
 .searchform p {
-  color: #8C8C88;
+  color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
