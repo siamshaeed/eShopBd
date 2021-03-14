@@ -34,5 +34,4 @@
     </div>
     @endforeach
   </div><!--/category-products-->
-
 </div>
