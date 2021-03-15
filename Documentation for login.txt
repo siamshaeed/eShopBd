@@ -4,6 +4,6 @@ Dashbord Login
 ===============
 Url login to admin : http://127.0.0.1:8000/admin
 Username : siam@gmail.com
-pass : 
+pass : 1(6)
 
 For this project I am using Laravel, Jquery, Ajax, Bootstrap, CSS3 and HTML5
